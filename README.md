@@ -1,0 +1,1 @@
+This is a web project which is a book sharing platform in my own University. It has an admin portion where books and student details are verified and a student portion where any student can borrow and donate books.
